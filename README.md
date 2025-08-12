@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ig: fp.camargo_
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm good af at GTAV
 
 ![camargoromero's Stats](https://github-readme-stats.vercel.app/api?username=camargoromero&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
